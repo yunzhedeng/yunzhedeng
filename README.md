@@ -29,6 +29,16 @@ Connected embedded system integrating a custom PCB, SiWG917 firmware, CMSIS-RTOS
 
 Six-stage RV32IM processor implemented in SystemVerilog with AXI4-Lite instruction and data memory interfaces, forwarding, hazard control, branch flushing, load-use stall handling, and pipelined division. Verified with Cocotb/Verilator and implemented through an FPGA flow using Yosys and nextpnr.
 
+## Research & Publications
+
+### COBRA: Algorithm-Architecture Co-optimized Binary Transformer Accelerator for Edge Inference
+
+**Co-author · RBMM Pipeline Contributor**
+
+Contributed to the pipelined execution of COBRA's RBMM (Real 1-bit Binary Matrix Multiplication) engine, enabling overlapped engine invocations with an initiation interval of one clock cycle within the larger FPGA accelerator design.
+
+Deng, Y., et al. "COBRA: Algorithm-Architecture Co-optimized Binary Transformer Accelerator for Edge Inference." ICCAD 2025.
+
 ## Technical Areas
 
 **Languages**  
