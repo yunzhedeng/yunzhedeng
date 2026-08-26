@@ -13,11 +13,21 @@ M.S.E. Electrical Engineering student at the University of Pennsylvania with a b
 
 ## Featured Projects
 
-### MasterDoom — AI Texas Hold'em Embedded Poker Assistant
+### AI Texas Hold'em Embedded Poker Assistant
 
-[View Repository](https://github.com/yunzhedeng/masterdoom-embedded-poker-assistant)
+**Team MasterDoom · University of Pennsylvania ESE 5160**
+
+[View Repository](https://github.com/yunzhedeng/texas-holdem-embedded-assistant)
 
 Connected embedded system integrating a custom PCB, SiWG917 firmware, CMSIS-RTOS tasks, SPI/I2C peripherals, Wi-Fi/MQTT, OTA updates, camera vision, and FastAPI + YOLOv3 inference.
+
+### Pipelined RV32IM Processor with AXI4-Lite Memory
+
+**University of Pennsylvania · CIS 5710**
+
+[View Repository](https://github.com/yunzhedeng/pipelined-riscv-axil-processor)
+
+Six-stage RV32IM processor implemented in SystemVerilog with AXI4-Lite instruction and data memory interfaces, forwarding, hazard control, branch flushing, load-use stall handling, and pipelined division. Verified with Cocotb/Verilator and implemented through an FPGA flow using Yosys and nextpnr.
 
 ## Technical Areas
 
