@@ -35,6 +35,9 @@ Six-stage RV32IM processor implemented in SystemVerilog with AXI4-Lite instructi
 
 **Co-author · RBMM Pipeline Contributor**
 
+[Paper (arXiv)](https://arxiv.org/abs/2504.16269)  
+[Publication Record (DBLP / DOI)](https://doi.org/10.1109/ICCAD66269.2025.11240633)
+
 Contributed to the pipelined execution of COBRA's RBMM (Real 1-bit Binary Matrix Multiplication) engine, enabling overlapped engine invocations with an initiation interval of one clock cycle within the larger FPGA accelerator design.
 
 Deng, Y., et al. "COBRA: Algorithm-Architecture Co-optimized Binary Transformer Accelerator for Edge Inference." ICCAD 2025.
