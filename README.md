@@ -4,7 +4,7 @@
 
 M.S.E. Electrical Engineering student at the University of Pennsylvania with a background in Computer Engineering from UC Irvine. Interested in low-level hardware/software systems, embedded firmware, robotics, digital design, and hardware-software co-design.
 
-[Portfolio](https://yunzhedeng.com) · [LinkedIn](www.linkedin.com/in/yunzhedeng)
+[Portfolio](https://yunzhedeng.com) · [LinkedIn](https://www.linkedin.com/in/yunzhedeng)
 
 ## Current Focus
 
