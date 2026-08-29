@@ -23,6 +23,10 @@ M.S.E. Electrical Engineering student at the University of Pennsylvania with a b
 
 Connected embedded system integrating a custom PCB, SiWG917 firmware, CMSIS-RTOS tasks, SPI/I2C peripherals, Wi-Fi/MQTT, OTA updates, camera vision, and FastAPI + YOLOv3 inference.
 
+Root-caused a custom-board `.rps` flashing failure to an unhalted Cortex-M4, restored firmware programming through a J-Link/SWD halt-and-reset recovery sequence, and documented the procedure for classmates.
+
+[View SiWG917 flashing recovery notes](https://github.com/yunzhedeng/texas-holdem-embedded-assistant/blob/main/docs/testing/siwg917-flashing-recovery.md)
+
 ### Pipelined RV32IM Processor with AXI4-Lite Memory
 
 **University of Pennsylvania · CIS 5710**
@@ -50,7 +54,7 @@ Deng, Y., et al. "COBRA: Algorithm-Architecture Co-optimized Binary Transformer 
 C, C++, Embedded C, Python, SystemVerilog
 
 **Embedded**  
-FreeRTOS / CMSIS-RTOS, STM32, SiWG917, GPIO, SPI, I2C, UART, PWM, ADC
+FreeRTOS / CMSIS-RTOS, STM32, SiWG917; GPIO, SPI, I2C, UART, PWM, ADC; J-Link / SWD, firmware flashing recovery, hardware bring-up
 
 **Robotics**  
 ROS / ROS2, SLAM, path planning, sensor integration
@@ -59,7 +63,7 @@ ROS / ROS2, SLAM, path planning, sensor integration
 SystemVerilog, Vivado, RISC-V, AXI / AXI-Lite, Vitis HLS
 
 **Tools**  
-Git, Linux, Altium Designer, oscilloscope, logic analyzer, GDB
+Git, Linux, Altium Designer, SEGGER J-Link / SWD, Simplicity Commander, oscilloscope, logic analyzer, GDB
 
 ## Education
 
